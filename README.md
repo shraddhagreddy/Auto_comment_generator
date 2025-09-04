@@ -1,4 +1,4 @@
-#Auto-Comment Generator using AI
+# Auto-Comment Generator using AI
 
 An AI-powered tool that generates meaningful comments for code snippets written in Python, C++, and Java.
 It comes with:
