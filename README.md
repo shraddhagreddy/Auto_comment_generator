@@ -1,11 +1,11 @@
-# Auto-Comment Generator using AI
+## Auto-Comment Generator using AI
 
 An AI-powered tool that generates meaningful comments for code snippets written in Python, C++, and Java.
 It comes with:
 1. A Flask backend API for programmatic access.
 2. A Streamlit frontend UI for an interactive experience.
 
-🚀 Features
+# Features
 1. Generate comments for Python, C++ and Java code.
 2. Simple REST API endpoints.
 3. Clean Streamlit interface with Lottie animations.
